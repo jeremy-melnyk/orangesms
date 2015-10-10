@@ -1,12 +1,13 @@
 <resources>
-    <string name="app_name">OrangeSMS</string>
-    <string name="textView1Text">OrangeSMS</string>
-    <string name="textView2Text">Sending an SMS</string>
+    <string name="app_name">SpamSMS</string>
+    <string name="textView1Text">SpamSMS</string>
+    <string name="textView2Text">Repeatedly hit the send button to annoy your friends!</string>
     <string name="editTextHint">Type SMS Here</string>
     <string name="btnSendSMSText">Send Sms</string>
 
 <!-- TODO: Remove or change this placeholder text -->
     <string name="contactNameText">ContactName</string>
-    <string name="btnChooseContactText">Choose Contact</string>
+    <string name="btnChooseContactText">Choose Victim</string>
     <string name="contactNumberText">ContactNumber</string>
+    <string name="textView3Text">Warning: Prolonged use may result in having no friends.</string>
 </resources>
