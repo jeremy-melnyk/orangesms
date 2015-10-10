@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OrangeSMS</string>
+    <string name="textView1Text">OrangeSMS</string>
+    <string name="textView2Text">Sending an SMS</string>
+    <string name="editTextHint">Type SMS Here</string>
+    <string name="btnSendSMSText">Send Sms</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="contactNameText">ContactName</string>
+    <string name="btnChooseContactText">Choose Contact</string>
+    <string name="contactNumberText">ContactNumber</string>
+</resources>
